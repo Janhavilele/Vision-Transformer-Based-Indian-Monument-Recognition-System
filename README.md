@@ -20,13 +20,6 @@ This model enables:
 
 A curated dataset of Indian monuments (24 classes), Preprocessed to 224×224 resolution, Train–test split: 80:20, Augmentation applied (rotation, flip, brightness variations)
 
-**Model Comparison:**
-
-Model	Accuracy	Precision	Recall	F1-Score
-ViT-B16	0.9468	0.9452	0.9466	0.9466
-ViT-B32	0.9289	0.9245	0.9459	0.9256
-ResNet50	0.9112	0.9132	0.9250	0.9121
-
 
 **Key Highlights:**
 
